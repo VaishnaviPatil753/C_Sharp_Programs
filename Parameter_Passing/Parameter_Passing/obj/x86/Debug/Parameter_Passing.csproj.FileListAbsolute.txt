@@ -1,0 +1,4 @@
+D:\Vaishnavi C# Program\Parameter_Passing\Parameter_Passing\bin\Debug\Parameter_Passing.exe
+D:\Vaishnavi C# Program\Parameter_Passing\Parameter_Passing\bin\Debug\Parameter_Passing.pdb
+D:\Vaishnavi C# Program\Parameter_Passing\Parameter_Passing\obj\x86\Debug\Parameter_Passing.exe
+D:\Vaishnavi C# Program\Parameter_Passing\Parameter_Passing\obj\x86\Debug\Parameter_Passing.pdb
