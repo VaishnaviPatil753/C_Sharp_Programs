@@ -1,0 +1,4 @@
+C:\Vaishnavi C#\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+C:\Vaishnavi C#\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+C:\Vaishnavi C#\Inheritance\Inheritance\obj\x86\Debug\Inheritance.exe
+C:\Vaishnavi C#\Inheritance\Inheritance\obj\x86\Debug\Inheritance.pdb
